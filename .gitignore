@@ -1,0 +1,7 @@
+/Win32
+/__history
+/__recovery
+HiramClient.stat
+*.res
+*.local
+/HiramClient.cbproj.local
